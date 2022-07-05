@@ -27,11 +27,11 @@ Clear filter search by either deleting the enteries in the Filter fields or by c
 
 ## Summary: 
 The summary addresses/describes one drawback of this webpage
-Major drawback is the limitation of the Filter Search entry boxes.  What date range is this data?
+Major drawback is the limitation of the Filter Search entry boxes.  What date range is this data?  Reference in quote to "Citizen-scientist can be especially helpful in...cataloguing sitings..." with no indication of how to do so/how to participate.
 
 The summary addresses two additional recommendations for further development
 1. allow for drop downs in each field search, allow for interactive table that can be sorted ascending/descending and filtered. Allow for multiple entry selection, ranges.  Allow for exporting of data.
-2. images
+2. Allow for uploading of images!!!! 
 
 ## Resources:
 Data Sources: data.js, app.py, index.html
