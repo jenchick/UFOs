@@ -33,4 +33,7 @@ The summary addresses two additional recommendations for further development
 1. allow for drop downs in each field search, allow for interactive table that can be sorted ascending/descending and filtered. Allow for multiple entry selection, ranges.  Allow for exporting of data.
 2. images
 
-
+## Resources:
+Data Sources: data.js, app.py, index.html
+Software: Visual Studio Code 
+Also: JavaScript, HTML/CSS, Chrome Developer Tools
