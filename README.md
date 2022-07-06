@@ -1,15 +1,14 @@
 # UFO Sightings with JavaScript
 
 ## Overview of Project: 
-Explain the purpose of this analysis. 
-The purpose is well-defined.
-webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
-Deliverable 1: Filter UFO sightings on multiple criteria; modify the code in your index.html file to create more table filters. In addition to the date filter you created in this module, you’ll add filters for the city, state, country, and shape
+The purpose of this project is to expand on the UFO Sightings webpage that was already built during the JavaScript Module. The updates to the webpage allow for filtering on multiple criteria at the same time.  By modifying code in the index.html file, additional filter fields of City, State, Country, and Shape were added.
 
 ## Results: 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.  
-There is a description of how to perform a search, with images.
+The UFO Sightings webpage was successfully updated to include an expanded filter section with five options to filter, as indicated in the image below:
+
 ![image](https://user-images.githubusercontent.com/102322707/177429710-409bd81c-00fa-4f70-896e-8114af422807.png)
+
+Explain how the webpage works.
 
 ![image](https://user-images.githubusercontent.com/102322707/177429747-d93275e5-0528-4d2c-bd04-a979bfcf65ad.png)
 
